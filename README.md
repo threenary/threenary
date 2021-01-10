@@ -1,11 +1,11 @@
 
-## 👋 I am threenary, also known as Gonzalo
+## 👋 I am threenary 
+#### (also known as Gonzalo)
 I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, and despite you won't find super cool stuff built in docens of languages built even while sleeping in this repo, I can proudly say I have been involved in software development since I have memory, wich has made me [develop good habits and persue software engineering best practices](https://www.goodreads.com/quotes/532211-i-m-not-a-great-programmer-i-m-just-a-good-programmer). You will find with me a pragmatic and reliable allied when time to build solutions comes.
 
 I also enjoy learning from others, I enjoy sharing experiences with colleagues, feel comfortable when I own understand the domain I am involved in, which allows adding valuable contributions.
 
 In addition I like story telling so I also write about struff I read, reflections on jobs done and patterns I observe across different projects and teams I interacted with.
-
 
 
 - 🌱 __I’m currently learning__ a lot about Severless, Javascript and Architecture
