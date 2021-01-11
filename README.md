@@ -30,8 +30,8 @@ In addition I like story telling so I also write about struff I read, reflection
 
 ### 💬 But I am also interested in: 
 - Software Engineering best practices
-- Growing products and teams
-- Agile and team dynamics
+- Agile methodologies and eXtremme Programming
+- Growing products and teams dynamics
 - Communication and collaboration patterns in Sofware Development Teams
 - Story telling
 <br>
