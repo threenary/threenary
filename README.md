@@ -7,7 +7,6 @@ I also enjoy learning from others, I enjoy sharing experiences with colleagues, 
 
 In addition I like story telling so I also write about struff I read, reflections on jobs done and patterns I observe across different projects and teams I interacted with.
 
-
 - :seedling: __I’m currently learning__ a lot about Severless, Javascript and Architecture
 - :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
 - :goal_net: __I’m looking for__ ideas to grow towards Data Engineering
@@ -28,19 +27,19 @@ In addition I like story telling so I also write about struff I read, reflection
 [terraform]: https://www.terraform.io/
 <br>
 
-#### Although also enjoy:
+##### Although also enjoy:
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>][javascript]
 [<img align="left" alt="Clojure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/clojure.svg"/>][clojure]
 [<img align="left" alt="Haskell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/haskell.svg"/>][haskell]
 [<img align="left" alt="Kafka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachekafka.svg"/>][kafka]
 
+[kafka]: https://kafka.apache.org/
+[clojure]: https://clojure.org/
 [haskell]: https://www.haskell.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/javascript
-[clojure]: https://clojure.org/
-[kafka]: https://kafka.apache.org/
 <br>
 
-### 💬 And I also feel comfortable with: 
+### 💬 And also feel comfortable with: 
 - Software Engineering best practices
 - Agile methodologies and eXtremme Programming
 - Building and growing products
