@@ -7,8 +7,8 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 
 - :seedling: __I’m currently learning__ a lot about Severless, Javascript and Architecture
 - :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
-- :goal_net: __I’m looking for__ ideas to grow towards Data Engineering
-- :sparkles: __Fun fact__: I've been blogging about travelling for more than 10 years
+- :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering
+- :sparkles: __Fun fact__ I've been blogging about travelling for more than 10 years
 <br>
 
 ### 🔭 I’m experienced working with: 
