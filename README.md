@@ -22,8 +22,9 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 [typescript]: https://www.typescriptlang.org/
 [azurefunctions]: https://azure.microsoft.com/en-us/services/functions/
 [terraform]: https://www.terraform.io/
+<br>
 
-##### 🔭 Although also enjoy:
+#### 🔭 Although also enjoy:
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>][javascript]
 [<img align="left" alt="Clojure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/clojure.svg"/>][clojure]
 [<img align="left" alt="Haskell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/haskell.svg"/>][haskell]
