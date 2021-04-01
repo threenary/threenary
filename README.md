@@ -9,9 +9,8 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 - :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
 - :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering
 - :sparkles: __Fun fact__ I've been blogging about travelling for more than 10 years
-<br>
 
-### 🔭 I’m experienced working with: 
+### 🎯 I’m experienced working with: 
 [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][java]
 [<img align="left" alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />][spring]
 [<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][typescript]
@@ -23,9 +22,8 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 [typescript]: https://www.typescriptlang.org/
 [azurefunctions]: https://azure.microsoft.com/en-us/services/functions/
 [terraform]: https://www.terraform.io/
-<br>
 
-##### Although also enjoy:
+##### 🔭 Although also enjoy:
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>][javascript]
 [<img align="left" alt="Clojure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/clojure.svg"/>][clojure]
 [<img align="left" alt="Haskell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/haskell.svg"/>][haskell]
@@ -37,7 +35,7 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/javascript
 <br>
 
-### 💬 And also feel comfortable with: 
+### 💬 And feel comfortable with: 
 - Software Engineering best practices
 - Agile methodologies and eXtremme Programming
 - Building and growing products
