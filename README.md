@@ -1,5 +1,5 @@
 
-## 👋 I am threenary 
+## 👋 I am threenary 🍀
 #### (also known as Gonzalo)
 I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, and despite you won't find super cool stuff built in docens of languages built even while sleeping in this repo, I can proudly say I have been involved in software development since I have memory, wich has made me [develop good habits and persue software engineering best practices](https://www.goodreads.com/quotes/532211-i-m-not-a-great-programmer-i-m-just-a-good-programmer). You will find with me a pragmatic and reliable allied when time to build solutions comes.
 
@@ -44,12 +44,3 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 - Collaboration patterns in Sofware Development teams
 - Communication and story telling
 <br>
-
-#### 📫 Feel free to reach me out
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Esceptico Observador" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[linkedin]: https://www.linkedin.com/in/ggomezsullain/
-[xing]: https://www.xing.com/profile/Gonzalo_GomezSullain/cv
-[website]: https://www.escepticoobservador.com/
