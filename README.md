@@ -5,7 +5,7 @@ I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, a
 
 I enjoy learning from others, sharing my experiences with colleagues and own the domain to add valuable contributions. Additionally, I also like story telling so I also write about struff I read, reflections on jobs done and patterns I observe across different projects and teams I interacted with.
 
-- :seedling: __I’m currently learning__ a lot about Severless, Javascript and Architecture
+- :seedling: __I’m currently learning__ a lot about Serverless, Javascript and Architecture
 - :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
 - :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering
 - :sparkles: __Fun fact__ I've been blogging about travelling for more than 10 years
