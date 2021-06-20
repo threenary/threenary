@@ -8,7 +8,7 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 - :seedling: __I’m currently learning__ a lot about Serverless, Javascript and Architecture
 - :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
 - :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering
-- :sparkles: __Fun fact__ I've been blogging about travelling for more than 10 years
+- :sparkles: __Fun fact__ I've been blogging about travels for more than 10 years
 
 ### 🎯 I’m experienced working with: 
 [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][java]
@@ -24,7 +24,7 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 [terraform]: https://www.terraform.io/
 <br>
 
-#### 🔭 Although also enjoy:
+#### :sparkles: I also enjoy:
 [<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg"/>][javascript]
 [<img align="left" alt="Clojure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/clojure.svg"/>][clojure]
 [<img align="left" alt="Haskell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/haskell.svg"/>][haskell]
@@ -37,9 +37,7 @@ I enjoy learning from others, sharing my experiences with colleagues and own the
 <br>
 
 ### 💬 And feel comfortable with: 
-- Software Engineering best practices
-- Agile methodologies and eXtremme Programming
-- Building and growing products
-- Collaboration patterns in Sofware Development teams
-- Communication and story telling
+- Software Engineering best practices: agile methodologies and eXtremme Programming
+- Building and growing teams and products
+- Collaboration through communication, story telling and knowledge sharing 
 <br>
