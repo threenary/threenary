@@ -5,9 +5,9 @@ I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, a
 
 I enjoy learning from others and sharing my experiences with colleagues to grow together and domain the context we dive into. As I value collboration, I enjoy story telling as a way to share things I learn, read, and time to time I write reflections about challenges I faced, patterns I observe across different projects and teams I interacted with.
 
-- :seedling: __I’m currently learning__ a lot about Serverless, Javascript and Architecture
-- :construction_worker: __I’m open to collaborate__ on NGO and teaching projects
-- :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering
+- :seedling: __I’m currently working on getting beetter at__ Serverless, Trypescript, Architecture while staying always in touch with ☕Java☕
+- :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering, Kafka and Data Streaming
+- :construction_worker: __I’m open to collaborate__ on NGO and teaching / coaching projects
 - :sparkles: __Fun fact__ I've been blogging about travels for more than 10 years
 
 ### 🎯 I’m experienced working with: 
@@ -38,6 +38,6 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 
 ### 💬 And feel comfortable with: 
 - Software Engineering best practices: agile methodologies and eXtremme Programming
-- Building and growing teams and products
-- Collaboration through communication, story telling and knowledge sharing 
+- Growing performant teams and building great products
+- Share knowledge through communication, story telling and connecting people
 <br>
