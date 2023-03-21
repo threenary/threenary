@@ -12,12 +12,14 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 
 ### 🎯 I’m experienced working with: 
 [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][java]
+[<img align="left" alt="Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />][kotlin]
 [<img align="left" alt="Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />][spring]
 [<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][typescript]
 [<img align="left" alt="Azure Functions" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azurefunctions.svg" />][azurefunctions]
 [<img align="left" alt="Terraform" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />][terraform]
 
 [java]: https://adoptopenjdk.net/
+[kotlin]: [https://adoptopenjdk.net/](https://kotlinlang.org/)
 [spring]: https://spring.io/
 [typescript]: https://www.typescriptlang.org/
 [azurefunctions]: https://azure.microsoft.com/en-us/services/functions/
@@ -37,7 +39,7 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 <br>
 
 ### 💬 And feel comfortable with: 
-- Software Engineering best practices: agile methodologies and eXtremme Programming
-- Growing performant teams and building great products
-- Share knowledge through communication, story telling and connecting people
+- Software Engineering best practices such as eXtremme Programming
+- Growing teams and interactions to build great products
+- Knowledge sharing, story telling and connecting people
 <br>
