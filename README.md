@@ -6,9 +6,9 @@ I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, a
 I enjoy learning from others and sharing my experiences with colleagues to grow together and domain the context we dive into. As I value collboration, I enjoy story telling as a way to share things I learn, read, and time to time I write reflections about challenges I faced, patterns I observe across different projects and teams I interacted with.
 
 - :seedling: __I’m currently working on getting beetter at__ Serverless, Trypescript, Architecture while staying always in touch with ☕Java☕
-- :goal_net: __I’m looking for__ opportunities to grow towards Data Engineering, Kafka and Data Streaming
-- :construction_worker: __I’m open to collaborate__ on NGO and teaching / coaching projects
-- :sparkles: __Fun fact__ I've been blogging about travels for more than 10 years
+- :goal_net: __I’m eagerto grow__ in Event Driven Architectures, Kafka and Data Engineering
+- :construction_worker: __I’m open to collaborate__ on Green Projects
+- :sparkles: __Fun fact__ I've been blogging about for more than 14 years
 
 ### 🎯 I’m experienced working with: 
 [<img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][java]
@@ -34,12 +34,12 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 
 [kafka]: https://kafka.apache.org/
 [clojure]: https://clojure.org/
-[haskell]: https://www.haskell.org/
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/javascript
 <br>
 
 ### 💬 And feel comfortable with: 
-- Software Engineering best practices such as eXtremme Programming
+- eXtremme Programming as one of the best Software Engineer practices
 - Growing teams and interactions to build great products
-- Knowledge sharing, story telling and connecting people
+- Knowledge sharing, story telling and writing
+- Connecting people
 <br>
