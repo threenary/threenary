@@ -5,23 +5,23 @@ I am [passionate](https://www.wordnik.com/words/passionate) Software Engineer, a
 
 I enjoy learning from others and sharing my experiences with colleagues to grow together and master the context we dive into.  As I value collboration, I enjoy story telling as a way to share things I learn, read, and time to time I write reflections about challenges I faced, patterns I observe across different projects and teams I interacted with.
 
-- :seedling: __I’m currently working on getting beetter at__ Data Engineering
-- :goal_net: __I’m eagerto grow__ in Event Driven Architectures, Kafka and mastering Data Engineering
+- :seedling: __I’m currently working on helping teams in their__ Event Streaming journey
+- :goal_net: __I’m growing my skills in Event Driven Architectures & Data Engineering
 - :construction_worker: __I’m open to collaborate__ on Green Projects
 - :sparkles: __Fun fact__ I've been blogging about for more than 15 years
 
 ### 🎯 I’m experienced working with: 
-- Typescript
-- NestJS
-- Java & Kotlin
-- SpringBoot
+- Typescript | NestJS
+- Java | SpringBoot
+- Kafka
 - Terraform
-- Object Oriented Programming
+- Event Driven Architecture
 - Data Oriented Design
+- Object Oriented Programming
+- Functional Programming
 
 #### :sparkles: I also enjoy:
 - Messaging Patterns
-- Functional Programming
 - Clojure
 - Haskell
 
