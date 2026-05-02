@@ -11,19 +11,18 @@ I enjoy learning from others and sharing my experiences with colleagues to grow 
 - :sparkles: __Fun fact__ I've been blogging about for more than 15 years
 
 ### 🎯 I’m experienced working with: 
+- Kafka
+- Event Streaming
+- Event Driven Architecture
 - Typescript | NestJS
 - Java | SpringBoot
-- Kafka
 - Terraform
-- Event Driven Architecture
 - Data Oriented Design
 - Object Oriented Programming
-- Functional Programming
 
 #### :sparkles: I also enjoy:
 - Messaging Patterns
-- Clojure
-- Haskell
+- Functional Programming
 
 ### 💬 And feel comfortable with: 
 - eXtremme Programming as one of the best Software Engineer practices
